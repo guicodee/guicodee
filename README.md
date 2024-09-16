@@ -4,12 +4,11 @@
 <br/>
 
 - Atualmente estou aprendendo <strong>NextJS</strong>
-- Você pode me contatar no email <a>guilhermedfgo12@gmail.com</a>
 
 <h2>👨‍💻 Tech Stack</h2><br/>
 <div>
     <p target="_blank">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwindcss,git,github" alt"Tech Stack">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwindcss" alt"Tech Stack">
     </p>
 </div>
 
