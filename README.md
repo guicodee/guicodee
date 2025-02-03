@@ -8,7 +8,7 @@
 <h2>👨‍💻 Tech Stack</h2><br/>
 <div>
     <p target="_blank">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwindcss" alt"Tech Stack">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwindcss,nodejs" alt"Tech Stack">
     </p>
 </div>
 
